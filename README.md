@@ -79,5 +79,8 @@ bash delete_calysto.sh
 bash commands.sh
 ```
 
+#### If you want to make OpenBox more beautifull:
+- OpenBox can be ugly and if you want to make it more beautifull, press rightclick (press with two fingers) and select OpenBox settings. Then, select a theme from the menu that shows up. I usualy preffer bear2.
+
 
 # Have fun :)
