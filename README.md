@@ -23,17 +23,23 @@ A mini desktop envoierment based on XFCE for Termux: X11
 - start_xfce_calysto.sh
 > If you run this script you will start Calysto with XFCE deaktop envoierment.
 
+- Wallpaper.jpg
+> For the wallpaper.
 
+- Startup.mp3
+> For the startup sound.
 
 ## Notes:
 
 - Install the app Termux:X11 from oficial github page!
 
-- Start Termux:X11 before running the scripts.
+- The install script is runned only when installed and the start script is runned evry time you start the desktop unless it os running in the background of Termux:X11.
 
 - The desktop is scaled small (Go to Termux:X11 settings -> output -> display resolution mode -> scaled, and change the resolution)
 
-- The desktop is oriented horizontaly
+- The desktop is oriented verticaly
+
+- ONLY WORKS ON ANDROID
 
 ---
 
